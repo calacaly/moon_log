@@ -1,0 +1,12 @@
+{
+  "name": "calacaly/moon_log",
+  "version": "0.1.0",
+  "deps": {
+    "moonbitlang/x": "0.4.29"
+  },
+  "readme": "README.md",
+  "repository": "github.com/calacaly/moon_log",
+  "license": "Apache-2.0",
+  "keywords": ["log"],
+  "description": "让人不懵逼的日志库，目前还是愚蠢的实现，以后会进行优化（也许）。"
+}

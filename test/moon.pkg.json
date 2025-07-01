@@ -1,0 +1,4 @@
+{
+  "import": ["calacaly/moon_log/slog"],
+  "test-import": ["moonbitlang/x/sys", "moonbitlang/x/time"]
+}
