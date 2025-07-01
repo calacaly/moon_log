@@ -5,7 +5,7 @@
 ## add dep
 
 ```bash
-moon add calacaly/clog/slog
+moon add calacaly/moon_log/slog
 ```
 
 ## example code
